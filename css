@@ -129,21 +129,19 @@ button{
 }
 
 .icon{
-	width: 30 px;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 10px;
-	margin-bottom: 20px;
+	width: 30px;
+	height:30px;
+	margin:13%;
 }
 
 .iconbox{
-	width: 40px;
-	height: 40px;
-	margin-top: 15px;
-	margin-left: 10px;
-	background-color: black;
+	width: 45px;
+	height: 45px;
+	margin-top: 4%;
+	margin-left: 4%;
+	background-color: gray;
 	float: left;
-	border-radius: 20px;
+	border-radius: 100%;
 }
 
 .badges{
